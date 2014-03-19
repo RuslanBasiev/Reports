@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1092</key>
+	<array>
+		<string>Иванова Екатерина</string>
+		<string>Томаева Люда</string>
+		<string>Пухов Георгий</string>
+		<string>Удав Питонов</string>
+	</array>
+	<key>1310</key>
+	<array>
+		<string>Пони</string>
+		<string>Большой Пони</string>
+		<string>Маленький Пони</string>
+	</array>
+	<key>1587</key>
+	<array>
+		<string>Брюс Ли</string>
+		<string>Джейсон Стетхем</string>
+		<string>Джеки Чан</string>
+	</array>
+	<key>1642</key>
+	<array>
+		<string>Фродо</string>
+		<string>Сэм</string>
+		<string>Пипин</string>
+		<string>Мери</string>
+	</array>
+	<key>1687</key>
+	<array>
+		<string>Нео</string>
+		<string>Морфиус</string>
+		<string>Агент Смитт</string>
+	</array>
+	<key>1715</key>
+	<array>
+		<string>Ниф Ниф</string>
+		<string>Наф Наф</string>
+		<string>Нуф Нуф</string>
+	</array>
+	<key>1730</key>
+	<array>
+		<string>Хадарковский</string>
+		<string>Абрамович</string>
+		<string>Лебедев</string>
+	</array>
+	<key>1753</key>
+	<array>
+		<string>Владимир Путин</string>
+		<string>Дмитрий Медведев</string>
+	</array>
+	<key>1760</key>
+	<array>
+		<string>Майкл Джордан</string>
+		<string>Майк Тайсон</string>
+		<string>Мохаммед Али</string>
+		<string>Джо Фрейзер</string>
+	</array>
+</dict>
+</plist>
