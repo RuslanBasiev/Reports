@@ -7,11 +7,14 @@
 //
 
 #import "AppDelegate.h"
+#import <Parse/Parse.h>
 
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    [Parse setApplicationId:@"xjSmquucmqUugUuAHQinBfBZJiagKE29agQZ33BP"
+                  clientKey:@"IxIwucJ30WZXtCLm19Oh84c0wzsGQbDXLq3iD41F"];
     return YES;
 }
 

@@ -38,7 +38,7 @@
     [dateFormatter setTimeStyle:NSDateFormatterNoStyle];
     [dateFormatter setDateStyle:NSDateFormatterLongStyle];
     [dateFormatter setLocale:[NSLocale currentLocale]];
-    titleTextField.text = [NSString stringWithFormat:@"Сегодня, %@",[dateFormatter stringFromDate:[NSDate date]]];
+    titleTextField.text = [dateFormatter stringFromDate:[NSDate date]];
     
     UIDatePicker *datePicker = [[UIDatePicker alloc] init];
     datePicker.datePickerMode = UIDatePickerModeDate;
@@ -104,7 +104,6 @@
 {
     return [[offices objectForKey:[officesTitles objectAtIndex:section]] count];
 }
-
 
 -(UIView*)tableView:(UITableView *)tableView viewForHeaderInSection:(NSInteger)section
 {
